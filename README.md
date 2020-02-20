@@ -49,7 +49,7 @@ You can pass a different folder with the `-f` or `--folder` parameter.
 
 `pg-commander create <name>`
 
-### Migrate
+### Migrate
 
 Applies all pending migrations. The migrations will be applied in the order of the
 version numbers ascending.
